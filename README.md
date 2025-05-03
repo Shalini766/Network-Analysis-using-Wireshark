@@ -36,8 +36,9 @@ Now, to see only HTTP traffic, you need to filter the packets.
 
 
 ### Step 4: Analysing HTTP Response
--Locate the HTTP Response for the GET Request and click on that to view the details of the response.
+- Locate the HTTP Response for the GET Request and click on that to view the details of the response.
 - In the details pane, expand ' Hypertext Transfer Protocol' to view the HTTP details.
+  
 
   ![wire 5](https://github.com/user-attachments/assets/1578a70d-5c15-4cf6-8abf-00973252f7e8)
 
